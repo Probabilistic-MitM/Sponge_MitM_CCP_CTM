@@ -1,0 +1,16 @@
+ &  (0x4bfafa06, 0xda)&   \\
+cline{2-2}
+ &  (0x6968c9ad, 0x7e)&   \\
+cline{2-2}
+ &  (0x3aae00e8, 0x54)&   \\
+cline{2-2}
+ &  (0x1cf1126b, 0x8f)&   \\
+cline{2-2}
+ &  (0x311809c6, 0xc9)&   \\
+cline{2-2}
+ &  (0x30852f8e, 0x58)&   \\
+cline{2-2}
+ &  (0xa2611056, 0x3f)&   \\
+cline{2-2}
+ &  (0xfd6f5a67, 0xc1)&   \\
+cline{2-2}
